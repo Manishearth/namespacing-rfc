@@ -5,6 +5,11 @@ This is a separate RFC repo for discussing the "Packages as Optional Namespaces"
 This was previously a pre-RFC at https://internals.rust-lang.org/t/pre-rfc-packages-as-optional-namespaces/13059.
 
 
+You can read the text [here](https://github.com/Manishearth/namespacing-rfc/blob/main/0000-packages-as-optional-namespaces.md).
+
+
+## Background
+
 There have been a _lot_ of discussions about namespacing in cargo. (most recently: https://internals.rust-lang.org/t/pre-rfc-hyper-minimalist-namespaces-on-crates-io/13041 and https://internals.rust-lang.org/t/pre-rfc-user-namespaces-on-crates-io/12851).
 
 There are some strong opinions about this floating around. From my perspective, most of the tension around this is that people have different sets of problems they want solved, some people want to solve squatting, some people want to solve ownership. The many years of talking past each other has left a lot of people feeling unheard and hurt.
