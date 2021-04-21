@@ -7,6 +7,7 @@ This was previously a pre-RFC at https://internals.rust-lang.org/t/pre-rfc-packa
 
 You can read the text [here](https://github.com/Manishearth/namespacing-rfc/blob/main/0000-packages-as-optional-namespaces.md).
 
+**There is now a prototype that you can try out [here](https://github.com/Manishearth/namespacing-rfc/issues/10)**
 
 ## Background
 
